@@ -2,6 +2,10 @@
 
 Projeto iniciado no curso de Django da Alura, desenvolvido em Python3 com framework Django.
 
+<div align="center">
+[screen-capture.webm](https://user-images.githubusercontent.com/86570695/194682270-94d11c20-6d05-4d5a-b63b-53fc94fc33fc.webm)
+</div>
+
 ## Semana 1
 
 Enquanto estudo e assisto as aulas, coloco alguns pontos que aprendi e estou utilizando nesse projeto no Readme.
